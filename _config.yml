@@ -1,11 +1,11 @@
 # Site settings
-author: Robyn Taylor
-title: 
+author: Robyn
+title: Journey Through Flatiron
 header-img: img/home-bg.png
 email: rhtaylor0715@gmail.com
-copyright_name: Robyn Taylor
+copyright_name: Robyn
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Self-Paced Software Engineering Course
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rh-taylor
